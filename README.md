@@ -1,3 +1,0 @@
-# Autoencoder_And_Denoiser_Pytorch
-# Robert_Frost_RNN_With_Pytorch
-# Python_Machine_Learning
